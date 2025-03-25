@@ -1,4 +1,3 @@
-## Hi there 👋 i am Tinsae
 ## 💫 About Me:
 🔭 I’m currently working on: building a Flutter app with integrated machine learning models for real-time data predictions.<br>🌱 I’m currently learning: Advanced techniques in natural language processing (NLP) and exploring Dart’s latest features for Flutter development.
 
