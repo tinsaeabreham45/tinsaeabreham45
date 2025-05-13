@@ -1,5 +1,15 @@
 ## 💫 About Me:
-🔭 I’m currently working on: building a Flutter app with integrated machine learning models for real-time data predictions.<br>🌱 I’m currently learning: Advanced techniques in natural language processing (NLP) and exploring Dart’s latest features for Flutter development.
+🔭 Building Cool Tech: Developing a Flutter app with integrated ML models for real-time data predictions.
+
+
+
+🌱 Always Growing: Diving deep into advanced NLP techniques and mastering Dart’s latest features for Flutter.
+
+🤖 ML & Automation Pro: Created a bird tracking system with 80%+ accuracy using YOLOv11 and an injera-baking robotic arm.
+
+💻 Tech Stack Wizard: Crafting solutions with TensorFlow, PyTorch, OpenCV, and Flutter for computer vision and mobile apps.
+
+🚀 Open-Source Explorer: Sharing projects like X Sentiment Analysis on Hugging Face to collaborate and inspire.
 
 
 ## 🌐 Socials:
