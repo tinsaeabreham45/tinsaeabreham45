@@ -1,15 +1,11 @@
 ## 💫 About Me:
 🔭 Building Cool Tech: Developing a Flutter app with integrated ML models for real-time data predictions.
 
-
-
 🌱 Always Growing: Diving deep into advanced NLP techniques and mastering Dart’s latest features for Flutter.
 
-🤖 ML & Automation Pro: Created a bird tracking system with 80%+ accuracy using YOLOv11 and an injera-baking robotic arm.
+🤖 ML & Automation Pro: Created a bird tracking system with 80%+ accuracy using YOLOv11 and DEEP SORT
 
 💻 Tech Stack Wizard: Crafting solutions with TensorFlow, PyTorch, OpenCV, and Flutter for computer vision and mobile apps.
-
-🚀 Open-Source Explorer: Sharing projects like X Sentiment Analysis on Hugging Face to collaborate and inspire.
 
 
 ## 🌐 Socials:
