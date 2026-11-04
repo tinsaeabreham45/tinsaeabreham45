@@ -54,6 +54,7 @@ Four projects that show the range: the math underneath, the systems on top, and 
   <sub>
     More work:
     <a href="https://github.com/tinsaeabreham45/fine_tune_bert">BERT sentiment at scale</a>
+    — 85.29% accuracy on 1.5M samples
     (<a href="https://huggingface.co/spaces/TinsaeA/sentiment-analysis-demo">live demo</a>)
     · <a href="https://github.com/tinsaeabreham45/book_recommender">Emotion-aware book recommender</a>
     · <a href="https://github.com/tinsaeabreham45/potato_detection">Potato defect detection</a>
