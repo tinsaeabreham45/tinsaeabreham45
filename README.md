@@ -56,7 +56,8 @@ Four projects that trace the arc: the math underneath, the models on top, and th
     <a href="https://github.com/tinsaeabreham45/fine_tune_bert">BERT sentiment at scale</a>
     — 85.29% accuracy on 1.5M samples
     (<a href="https://huggingface.co/spaces/TinsaeA/sentiment-analysis-demo">live demo</a>)
-    · <a href="https://github.com/tinsaeabreham45/bird-detection-and-tracking">Bird detection &amp; tracking</a>
+    <br />
+    <a href="https://github.com/tinsaeabreham45/bird-detection-and-tracking">Bird detection &amp; tracking</a>
     · <a href="https://github.com/tinsaeabreham45/book_recommender">Emotion-aware book recommender</a>
     · <a href="https://github.com/tinsaeabreham45/potato_detection">Potato defect detection</a>
   </sub>
