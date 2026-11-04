@@ -20,7 +20,7 @@
 
 ## 01 · The short version
 
-I'm an AI engineer based in Addis Ababa, Ethiopia. I build systems that turn messy data into decisions — LLM applications, retrieval pipelines, and computer vision products.
+I'm an AI engineer based in Addis Ababa, Ethiopia. I build systems that turn messy data into decisions — LLM applications, retrieval and recommender systems, and applied vision products.
 
 My work sits at the intersection of **applied mathematics** and **production AI**. I like to derive the math, implement the model from first principles, evaluate it honestly, and ship it behind a clean interface. Lately that means going deeper into linear algebra, optimization, and the calculus behind deep learning — then turning those ideas into tools people can actually use.
 
@@ -30,7 +30,7 @@ My work sits at the intersection of **applied mathematics** and **production AI*
 
 ## 02 · Selected work
 
-Four projects that show the range: the math underneath, the systems on top, and the products at the end.
+Four projects that trace the arc: the math underneath, the models on top, and the systems that make them useful.
 
 <p align="center">
   <a href="https://github.com/tinsaeabreham45/ECAN_VS_LSTM">
@@ -42,11 +42,11 @@ Four projects that show the range: the math underneath, the systems on top, and 
 </p>
 
 <p align="center">
-  <a href="https://github.com/tinsaeabreham45/match-hire-ticket-clustering">
-    <img src="./assets/project-triage.svg" alt="LLM Support Triage — pgvector clustering, LLM root-cause verification, and human approval" width="49%" />
+  <a href="https://github.com/tinsaeabreham45/session-based-recommendation">
+    <img src="./assets/project-session.svg" alt="Session-Based Recommender — co-occurrence graph over 1.9M sessions, MRR 0.2503, with LLM explanations" width="49%" />
   </a>
-  <a href="https://github.com/tinsaeabreham45/bird-detection-and-tracking">
-    <img src="./assets/project-bird.svg" alt="Bird Detection and Tracking — YOLOv11 and Deep SORT in a Gradio app" width="49%" />
+  <a href="https://github.com/tinsaeabreham45/match-hire-ticket-clustering">
+    <img src="./assets/project-ticket.svg" alt="LLM Support Triage — pgvector clustering of synthetic tickets, LLM root-cause verification, and human approval" width="49%" />
   </a>
 </p>
 
@@ -56,6 +56,7 @@ Four projects that show the range: the math underneath, the systems on top, and 
     <a href="https://github.com/tinsaeabreham45/fine_tune_bert">BERT sentiment at scale</a>
     — 85.29% accuracy on 1.5M samples
     (<a href="https://huggingface.co/spaces/TinsaeA/sentiment-analysis-demo">live demo</a>)
+    · <a href="https://github.com/tinsaeabreham45/bird-detection-and-tracking">Bird detection &amp; tracking</a>
     · <a href="https://github.com/tinsaeabreham45/book_recommender">Emotion-aware book recommender</a>
     · <a href="https://github.com/tinsaeabreham45/potato_detection">Potato defect detection</a>
   </sub>
